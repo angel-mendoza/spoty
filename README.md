@@ -1,0 +1,2 @@
+# spoty
+practica de mean
